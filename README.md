@@ -1,4 +1,4 @@
-# 8-Bit Processor
+# 8-Bit MicroProcessor
 ## Instructions:
 * Compile assembler.cpp gile using g++ or gcc. 
     * Windows : Run "g++ assembler.cpp"in terminal.
