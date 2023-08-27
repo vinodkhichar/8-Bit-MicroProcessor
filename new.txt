@@ -1,0 +1,7 @@
+SMI A 3
+MR B A
+MI A 0
+LD 7
+CM A C
+#4 01
+#7 05

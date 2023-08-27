@@ -1,0 +1,7 @@
+dns
+*.vcd
+p
+processor
+*.out
+*.exe
+tb_processor.v
